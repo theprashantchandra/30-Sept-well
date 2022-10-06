@@ -1,8 +1,0 @@
-apiVersion: v1
-  metadata:
-    askId: UHGWM110-020530
-    caAgileId: 601873998185d
-    projectKey: com.optum.wellmeddirectory:WebApp
-    projectFriendlyName: wellmed-directory-webapp
-    componentType: code
-    targetQG: GATE_00
